@@ -5,7 +5,7 @@
     <title>Eternal emperor</title>
     <defName>EBB_EternalEmperor</defName>
     <titleShort>Emperor</titleShort>
-    <baseDesc>[PAWN_nameDef] was the Chef on a pirate ship. Between meals, [PAWN_pronoun] told tall tales that kept the crew's morale high. The crew's loyalty to their chef was great, possibly even greater than to their captain...</baseDesc>
+    <baseDesc>Chosen as a child by the Divine nature to rule, [PAWN_nameDef] has received the Divine right to have dominion over everything and everyone. Raised by vampiric lords,  [PAWN_pronoun] has become the pinnacle of all existence.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
