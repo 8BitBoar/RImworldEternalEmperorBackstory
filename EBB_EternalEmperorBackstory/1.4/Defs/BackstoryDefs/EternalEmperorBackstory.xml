@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <BackstoryDef>
+    <slot>Adulthood</slot>
+    <title>Eternal emperor</title>
+    <defName>EBB_EternalEmperor</defName>
+    <titleShort>Emperor</titleShort>
+    <baseDesc>[PAWN_nameDef] was the Chef on a pirate ship. Between meals, [PAWN_pronoun] told tall tales that kept the crew's morale high. The crew's loyalty to their chef was great, possibly even greater than to their captain...</baseDesc>
+    <spawnCategories>
+      <li>Offworld</li>
+    </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
+    <skillGains>
+      <li><key>Shooting</key><value>20</value></li>
+      <li><key>Cooking</key><value>20</value></li>
+      <li><key>Plants</key><value>20</value></li>
+      <li><key>Social</key><value>20</value></li>
+      <li><key>Artistic</key><value>20</value></li>
+      <li><key>Melee</key><value>20</value></li>
+      <li><key>Construction</key><value>20</value></li>
+      <li><key>Crafting</key><value>20</value></li>
+      <li><key>Medicine</key><value>20</value></li>
+      <li><key>Intellectual</key><value>20</value></li>
+      <li><key>Animals</key><value>20</value></li>
+      <li><key>Mining</key><value>20</value></li>
+    </skillGains>
+    <workDisables>
+      <li></li>
+    </workDisables>
+    <disallowedTraits>
+      <Wimp />
+    </disallowedTraits>
+    <forcedTraits>
+      <AG_Beauty />
+    </forcedTraits>
+  </BackstoryDef>
+ </Defs>
